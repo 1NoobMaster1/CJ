@@ -1,0 +1,3 @@
+int a, n & num;
+a, n & num = sc.nextInt();
+int a, n & num = sc.nextInt();
